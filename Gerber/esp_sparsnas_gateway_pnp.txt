@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=esp_sparsnas_gateway
+*Date=20:51:47
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;69.8465;-9.22036;0;Bottom;TXT1
+2;;;8.02922;-13.1029;0;Bottom;Power plug1
+3;;;85.5152;-57.5119;0;Bottom;Hole3
+4;;sma-edge;72.5135;-57.7494;0;Top;ANT1
+5;;;76.4187;-28.6604;90;Bottom;RFM69HCW
+6;;;75.0838;-45.8501;0;Bottom;Via2
+7;;;10.6497;-44.2514;0;Bottom;IMG1
+8;100µH;400 mil [THT];59.8135;-49.7424;-90;Bottom;L1
+9;;;2.37393;-57.6519;0;Bottom;Hole4
+10;;;85.4937;-2.39891;0;Bottom;Hole2
+11;;;37.0166;-2.5855;0;Bottom;TXT2
+12;100nF;100 mil [THT, multilayer];10.2788;-21.8024;0;Bottom;C1
+13;;;2.37393;-2.16128;0;Bottom;Hole1
+14;1mF;8mm [THT, electrolytic];11.1735;-28.0524;0;Bottom;C2
+15;;;36.9243;-29.8576;0;Bottom;NodeMCU V3
+16;;;69.9458;-45.8813;0;Bottom;Via1
