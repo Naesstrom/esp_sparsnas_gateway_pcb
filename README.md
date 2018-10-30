@@ -12,7 +12,7 @@ If you don't want a PCB here's bphermansson's scheme for connecting all the cabl
 Right... so now that we've concluded that you don't **need** a PCB but rather that you really **want** one to make it easier...
 
 # Ok Ok... I'm listening, go on!
-Just order the PCB's from any online shop of your choosing. Personally I prefer Seeed studio and you can even find the uploaded files by clicking here so just **click, click, click** and get your own PCB!
+Just order the PCB's from any online shop of your choosing. Personally I prefer Seeed studio and you can even find the uploaded files by clicking [here](https://www.seeedstudio.com/-g-1170810) so just **click, click, click** and get your own PCB!
 You need a few moore parts to tough:
 * PCB _(doh)_
 * [NodeMCU v3](https://www.banggood.com/V3-NodeMcu-Lua-WIFI-Development-Board-p-992733.html?p=OT281219548009201802) _(bigger footprint then v2)_
